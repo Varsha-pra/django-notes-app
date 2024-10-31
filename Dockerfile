@@ -1,4 +1,4 @@
-#this is the docker file
+#this is the dockerfile
 FROM python:3.9
 
 WORKDIR /app/backend
